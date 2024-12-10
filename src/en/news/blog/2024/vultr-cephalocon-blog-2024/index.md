@@ -4,7 +4,7 @@ date: "2024-11-23"
 author: Vultr
 image: "images/signet__on-dark-blue-bg.png"
 tags:
-  - "Cephalocon 2024"
+  - "Cephalocon"
   - "Vultr"
 ---
 
